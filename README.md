@@ -29,3 +29,7 @@ Opens a simple GUI application that generates the SHA-256 hash from a file
 ### python-server.py
 
 Opens a simple GUI application that lets you open a local python server at a selected location, with the ability to specify the port
+
+### image-to-pdf.py
+
+Opens a simple GUI application that merges image files to a single PDF
